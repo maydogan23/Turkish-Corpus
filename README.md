@@ -3,7 +3,7 @@
 This repository contains unlabeled Turkish corpus. Large, medium and small versions of the corpus have been shared. 
 It can be used in NLP studies by citing related studies.
 In addition, a word embedding file with a vector length of 100 trained using Word2vec was also shared.
-Please send email: murataydogan23@gmail.com
+Please contact with murataydogan23@gmail.com
 
 Related Works
 
