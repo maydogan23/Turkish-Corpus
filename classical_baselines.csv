@@ -1,0 +1,5 @@
+dataset,model,vectorizer,accuracy,f1_macro,precision_macro,recall_macro,train_s,inference_s,vectorize_s
+ttc3600,LinearSVC,tfidf_1_2gram,0.9639,0.9637,0.9646,0.9639,0.25,0.001,3.26
+ttc3600,MultinomialNB,tfidf_1_2gram,0.9389,0.9386,0.9415,0.9389,0.01,0.001,3.26
+ttc4900,LinearSVC,tfidf_1_2gram,0.9265,0.9263,0.9271,0.9265,0.38,0.001,4.13
+ttc4900,MultinomialNB,tfidf_1_2gram,0.8878,0.8888,0.8942,0.8878,0.01,0.001,4.13
